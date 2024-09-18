@@ -23,3 +23,5 @@ Gauge chart to track monthly orders, revenue and profit against the target value
 🔸 Customer view: Detailed view of customer depicting top customer by revenue.
 Donut chart showcasing orders by customer income level and customer occupation.
 Revenue per customer depicted through line chart.
+## Dashboard
+Access the dashboard: (https://github.com/YashaswiSharma19/Sales-Analysis-Dashboard---Adventure-Works-Company/blob/main/Adventure%20works%20dashboard.pdf.pdf)

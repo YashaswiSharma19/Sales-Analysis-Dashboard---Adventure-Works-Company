@@ -7,6 +7,7 @@ key Business Metrics:
 3. Product Cost
 4. Customer Annual Income
 5. Discount Prize
+
 Visualisation Views:
 
 🔸 Thumbnail Dashboard: Depicting revenue trends using line graph. 

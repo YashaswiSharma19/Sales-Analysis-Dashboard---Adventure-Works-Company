@@ -8,13 +8,17 @@ key Business Metrics:
 4. Customer Annual Income
 5. Discount Prize
 Visualisation Views:
+
 🔸 Thumbnail Dashboard: Depicting revenue trends using line graph. 
 Bar chart to showcase orders category wise.
 Top trend product matrix.
 kPI cards for Revenue, Profit,Orders and Return rate.
+
 🔸Map view: Map with slicer panels depicting regional orders
+
 🔸 Product view: Detailed view of product metrics like profit and returns using line chart.
 Gauge chart to track monthly orders, revenue and profit against the target value.
+
 🔸 Customer view: Detailed view of customer depicting top customer by revenue.
 Donut chart showcasing orders by customer income level and customer occupation.
 Revenue per customer depicted through line chart.
